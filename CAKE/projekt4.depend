@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1484409090 source:c:\users\oluœ\desktop\studia\studia\jp\projekt4\ciasto.cpp
+	"Ciasto.h"
+	<iostream>
+
+1484408582 
+
+1484408582 c:\users\oluœ\desktop\studia\studia\jp\projekt4\ciasto.h
+	<iostream>
+	<string>
+
+1484409090 source:c:\users\oluœ\desktop\studia\studia\jp\projekt4\ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+
+1484409090 c:\users\oluœ\desktop\studia\studia\jp\projekt4\ciasto_czek.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484409204 source:c:\users\oluœ\desktop\studia\studia\jp\projekt4\main.cpp
+	<iostream>
+	<string>
+	"Ciasto.h"
+	"Ciasto_czek.h"
+	"Szarlotka.h"
+
+1484409204 .h"
+
+1484408157 c:\users\oluœ\desktop\studia\studia\jp\projekt4\szarlotka.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484408157 source:c:\users\oluœ\desktop\studia\studia\jp\projekt4\szarlotka.cpp
+	"Szarlotka.h"
+	<iostream>
+
+1484409090 source:/home/mion/s/163/aszczes1/jp/projekt4/Ciasto.cpp
+	"Ciasto.h"
+	<iostream>
+
+1484408582 /home/mion/s/163/aszczes1/jp/projekt4/Ciasto.h
+	<iostream>
+	<string>
+
+1484409090 source:/home/mion/s/163/aszczes1/jp/projekt4/Ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+
+1484409090 /home/mion/s/163/aszczes1/jp/projekt4/Ciasto_czek.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484409316 source:/home/mion/s/163/aszczes1/jp/projekt4/main.cpp
+	<iostream>
+	<string>
+	"Ciasto.h"
+	"Ciasto_czek.h"
+	"Szarlotka.h"
+
+1484408157 /home/mion/s/163/aszczes1/jp/projekt4/Szarlotka.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484408157 source:/home/mion/s/163/aszczes1/jp/projekt4/Szarlotka.cpp
+	"Szarlotka.h"
+	<iostream>
+
+1484409316 source:c:\users\oluœ\desktop\projekt4\main.cpp
+	<iostream>
+	<string>
+	"Ciasto.h"
+	"Ciasto_czek.h"
+	"Szarlotka.h"
+
+1484760278 c:\users\oluœ\desktop\projekt4\ciasto.h
+	<iostream>
+	<string>
+
+1484409090 c:\users\oluœ\desktop\projekt4\ciasto_czek.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484408157 c:\users\oluœ\desktop\projekt4\szarlotka.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484760278 source:c:\users\oluœ\desktop\projekt4\ciasto.cpp
+	"Ciasto.h"
+	<iostream>
+
+1484760278 source:c:\users\oluœ\desktop\projekt4\ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+
+1484760278 source:c:\users\oluœ\desktop\projekt4\szarlotka.cpp
+	"Szarlotka.h"
+	<iostream>
+
+1485175665 source:c:\users\oluœ\desktop\dziedzicz ciastp\main.cpp
+	<iostream>
+	"Ciasto_czek.h"
+	"kkontener.h"
+	"kkontener.cpp"
+	"Szarlotka.h"
+
+1484948717 c:\users\oluœ\desktop\dziedzicz ciastp\ciasto.h
+	<iostream>
+	<string>
+
+1485111477 c:\users\oluœ\desktop\dziedzicz ciastp\ciasto_czek.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484856827 c:\users\oluœ\desktop\dziedzicz ciastp\szarlotka.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1485111477 source:c:\users\oluœ\desktop\dziedzicz ciastp\ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+	<fstream>
+
+1484856827 source:c:\users\oluœ\desktop\dziedzicz ciastp\szarlotka.cpp
+	"Szarlotka.h"
+	<iostream>
+
+1484948914 source:c:\users\oluœ\desktop\dziedzicz ciastp\ciasto.cpp
+	"Ciasto.h"
+	<iostream>
+
+1485175781 source:c:\users\oluœ\desktop\dziedzicz ciastp\kkontener.cpp
+	"Ciasto_czek.h"
+	"kkontener.h"
+	<iostream>
+	<fstream>
+
+1485112496 c:\users\oluœ\desktop\dziedzicz ciastp\kkontener.h
+	"Ciasto_czek.h"
+	"Ciasto.h"
+	<iostream>
+	"kkontener.cpp"
+
+1485175873 c:\users\oluœ\desktop\dziedzicz ciastp\kkontener.cpp
+	"Ciasto_czek.h"
+	"kkontener.h"
+	<iostream>
+	<fstream>
+
+1485111477 c:\users\oluœ\desktop\dziedzicz ciastp\ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+	<fstream>
+
+1484948914 source:c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\ciasto.cpp
+	"Ciasto.h"
+	<iostream>
+
+1484948717 c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\ciasto.h
+	<iostream>
+	<string>
+
+1485111477 source:c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\ciasto_czek.cpp
+	"Ciasto_czek.h"
+	<iostream>
+	<fstream>
+
+1485111477 c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\ciasto_czek.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1485175665 source:c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\main.cpp
+	<iostream>
+	"Ciasto_czek.h"
+	"kkontener.h"
+	"kkontener.cpp"
+	"Szarlotka.h"
+
+1485112496 c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\kkontener.h
+	"Ciasto_czek.h"
+	"Ciasto.h"
+	<iostream>
+	"kkontener.cpp"
+
+1485191360 c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\kkontener.cpp
+	"Ciasto_czek.h"
+	"kkontener.h"
+	<iostream>
+	<fstream>
+
+1484856827 c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\szarlotka.h
+	<iostream>
+	<string>
+	"Ciasto.h"
+
+1484856827 source:c:\users\oluœ\desktop\studia\jp\dziedzicz ciastp\szarlotka.cpp
+	"Szarlotka.h"
+	<iostream>
+
